@@ -41,6 +41,13 @@ const galleries={
         {src:"assets/images/project-2-login.png",title:"Login Screen"},
         {src:"assets/images/project-2-admin.png",title:"Admin Dashboard"},
         {src:"assets/images/project-2-cashier.png",title:"Cashier POS"}
+    ],
+    hris:[
+        {src:"assets/images/project-3-login-hris.png",tittle:"Login"},
+        {src:"assets/images/project-3-admin-hris.png",tittle:"HRIS Admin"},
+        {src:"assets/images/project-3-supervisor-hris.png",tittle:"HRIS Supervisor"},
+        {src:"assets/images/project-3-employee-hris.png",tittle:"HRIS Employee"}
+        
     ]
 };
 
